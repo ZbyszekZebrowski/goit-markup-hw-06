@@ -437,9 +437,7 @@ body {
     color: var(--ocean);
     border-color: var(--ocean);
 }
-
-
-
+/*------------------------ Portfolio------------------------------------- */
 
 .portfolio {
     padding-top: 96px;
@@ -558,6 +556,7 @@ body {
     letter-spacing: 0.02em;
     color: var(--slate);
 }
+
 
 /*-------------------------- Footer --------------------------*/
 
