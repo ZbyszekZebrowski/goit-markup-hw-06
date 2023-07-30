@@ -939,7 +939,7 @@ border-color: #4D5AE5;
 }
 
 .service-request:focus + .form-field-icon {
-fill: var(--purple-color)
+fill: var(--iris)
 }
 
 .order-service-comment:focus {
